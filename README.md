@@ -3,7 +3,7 @@
 Welcome to you.  
 
 This repository is just documentation on my research to learn how to incorporate NFT to Unity3D game and software.  
-When I am doing some research I writing the note in a git repository to use Isuuse, Wiki and others.  
+When I am doing some research I am writing the note in a git repository to use Issue, Wiki and others.  
 
 That what you can find here.  
 
